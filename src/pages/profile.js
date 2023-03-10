@@ -13,8 +13,8 @@ const profile = () => {
   ];
   const followingList = [
     { nickname: "seungjae" },
-    { nickname: "seungjae" },
-    { nickname: "seungjae" },
+    { nickname: "SJ" },
+    { nickname: "경통포세이돈" },
   ];
   return (
     <>
